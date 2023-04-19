@@ -1,23 +1,32 @@
-import logo from './logo.svg';
+// npx create-react-app space-mission
+// npm i bootstrap@5.2.3
+// npm i react-router-dom axios
+// npm start
+
 import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import Header from './Header';
+import Navbar from './Navbar';
+import Home from './Home';
+import Mission from './Mission';
+import Contact from './Contact';
+import Gallery from './Gallery';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <div className="row">
+        <Header />
+        <Navbar />
+      </div>
+      <div className="row">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/mission" element={<Mission />} />
+          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </div>
     </div>
   );
 }
