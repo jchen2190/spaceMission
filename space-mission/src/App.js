@@ -1,6 +1,7 @@
 // npx create-react-app space-mission
 // npm i bootstrap@5.2.3
 // npm i react-router-dom axios
+// npm i framer-motion
 // npm start
 
 import './App.css';
