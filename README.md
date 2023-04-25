@@ -27,6 +27,9 @@ Dependencies that will be installed:
 - framer-motion - v10.12.4
 - react-router-dom - v.6.10.0
 
+Dev Dependencies for github deployment:
+- gh-pages - v5.0.0
+
 You can run the application with react by typing the following in the command line:
 ```
 npm start
@@ -37,3 +40,7 @@ npm start
 - React with bootstrap implented
 - Javascript
 - NodeJS
+
+## Deployment
+
+Go to [https://jchen2190.github.io/spaceMission/](https://jchen2190.github.io/spaceMission/)

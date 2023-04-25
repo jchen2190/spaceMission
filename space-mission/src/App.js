@@ -16,10 +16,10 @@ function App() {
       </div>
       <div className="row">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/mission" element={<Mission />} />
-          <Route path="/gallery" element={<Gallery />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="spaceMission/" element={<Home />} />
+          <Route path="spaceMission/mission" element={<Mission />} />
+          <Route path="spaceMission/gallery" element={<Gallery />} />
+          <Route path="spaceMission/contact" element={<Contact />} />
         </Routes>
       </div>
     </div>
