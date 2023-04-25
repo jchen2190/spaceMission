@@ -37,7 +37,7 @@ npm start
 
 ## Technologies
 - API from [api.nasa.gov](https://api.nasa.gov/)
-- React with bootstrap implented
+- React with bootstrap implemented
 - Javascript
 - NodeJS
 
