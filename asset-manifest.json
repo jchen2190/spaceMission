@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spaceMission/static/css/main.3f066701.css",
+    "main.js": "/spaceMission/static/js/main.2b09dac0.js",
+    "static/js/787.ecc9e3a7.chunk.js": "/spaceMission/static/js/787.ecc9e3a7.chunk.js",
+    "index.html": "/spaceMission/index.html",
+    "main.3f066701.css.map": "/spaceMission/static/css/main.3f066701.css.map",
+    "main.2b09dac0.js.map": "/spaceMission/static/js/main.2b09dac0.js.map",
+    "787.ecc9e3a7.chunk.js.map": "/spaceMission/static/js/787.ecc9e3a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f066701.css",
+    "static/js/main.2b09dac0.js"
+  ]
+}
