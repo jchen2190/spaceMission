@@ -1,8 +1,10 @@
+import marsTeam from './images/team.jpg'
+
 function Contact() {
     return (
         <div className="col-12">
             <h2>Contact</h2>
-            <img src="./team.jpg" alt="Mars" className="img-fluid" />
+            <img src={marsTeam} alt="Mars" className="img-fluid" />
             <table className="table">
                 <tbody>
                 <tr>
