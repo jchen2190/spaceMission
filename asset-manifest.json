@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/spaceMission/static/css/main.3f066701.css",
-    "main.js": "/spaceMission/static/js/main.9dbfa975.js",
+    "main.js": "/spaceMission/static/js/main.2d8bbc6d.js",
     "static/js/787.ecc9e3a7.chunk.js": "/spaceMission/static/js/787.ecc9e3a7.chunk.js",
+    "static/media/team.jpg": "/spaceMission/static/media/team.b25ae76aff491b1d0145.jpg",
+    "static/media/mars-mission.jpg": "/spaceMission/static/media/mars-mission.5f48adf855ca1af6b392.jpg",
+    "static/media/mars.jpg": "/spaceMission/static/media/mars.0d4132eae408f025209d.jpg",
     "index.html": "/spaceMission/index.html",
     "main.3f066701.css.map": "/spaceMission/static/css/main.3f066701.css.map",
-    "main.9dbfa975.js.map": "/spaceMission/static/js/main.9dbfa975.js.map",
+    "main.2d8bbc6d.js.map": "/spaceMission/static/js/main.2d8bbc6d.js.map",
     "787.ecc9e3a7.chunk.js.map": "/spaceMission/static/js/787.ecc9e3a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f066701.css",
-    "static/js/main.9dbfa975.js"
+    "static/js/main.2d8bbc6d.js"
   ]
 }
